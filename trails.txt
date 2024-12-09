@@ -1,0 +1,20 @@
+Trail Name|Location|Distance (miles)|Elevation Gain (feet)|Difficulty (1-3)
+Cowles Mountain|San Diego City|4.3|950|2
+Iron Mountain Trail|Poway|5.8|1100|2
+Cedar Creek Falls|Ramona|5.2|1100|3
+Mount Woodson (Potato Chip Rock)|Poway|7.6|2100|3
+Los Peñasquitos Canyon Trail|Northern San Diego|6.8|157|1
+Three Sisters Falls|South of Julian|4.5|1000|3
+Fortuna Mountain Trail|Mission Trails Regional Park|6.3|1360|3
+Sunset Cliffs Natural Park|San Diego Coast|3.0|0|1
+Torrey Pines State Reserve - Broken Hill Loop|Torrey Pines|3.3|300|1
+Cuyamaca Peak Loop Trail|Cuyamaca Rancho State Park|7.7|1833|3
+Stonewall Peak Trail|Cuyamaca Rancho State Park|4.2|850|2
+Balboa Park Trails|Downtown San Diego|5.0|100|1
+El Cajon Mountain|Lakeside|11.0|3500|3
+Lake Hodges Trail|Escondido|7.1|100|1
+Santa Margarita River Trail|Fallbrook|5.0|200|1
+Black Mountain Open Space Park|Rancho Peñasquitos|4.2|800|2
+Mount Laguna - Big Laguna Trail|Mount Laguna|10.0|500|2
+Torrey Pines State Natural Reserve - Guy Fleming Trail|Torrey Pines|0.8|100|1
+San Dieguito River Park|Del Mar to Julian|6.0|300|2
