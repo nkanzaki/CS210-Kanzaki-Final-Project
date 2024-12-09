@@ -27,7 +27,7 @@ class Graph:
         # Open trails.txt in append mode
         with open("trails.txt", "a") as file:
             # Format the new trail data correctly for the file
-            trail_line = f"{trail_name}|{trail_data['Location']}|{trail_data['Distance (miles)']}|{trail_data['Elevation Gain (feet)']}|{trail_data['Difficulty (1-3)']}\n"
+            trail_line = f"\n{trail_name}|{trail_data['Location']}|{trail_data['Distance (miles)']}|{trail_data['Elevation Gain (feet)']}|{trail_data['Difficulty (1-3)']}"
             file.write(trail_line)
 
     def connect_trails(self, trail1, trail2):
