@@ -1,8 +1,8 @@
 import customtkinter as ctk
-from hashtable import HashTable  # Assuming HashTable class is in hashtable.py
-from tree import BST  # Assuming Tree.py contains the BST class
-from stack import PageNavigator  # Importing the PageNavigator class
-from graph import Graph  # Assuming Graph class is in Graph.py
+from hashtable import HashTable  
+from tree import BST  
+from stack import PageNavigator  
+from graph import Graph  
 
 class TrailApp:
     def __init__(self, root):
